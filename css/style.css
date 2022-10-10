@@ -1,0 +1,170 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+#header{
+    background: linear-gradient(90deg, #72072D 0%, #FF005C 100%);
+    height: 130px;
+    padding: 20px 0;
+}
+.header h1{
+    font-family: 'Inter',sans-serif;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding: 30px 20px;
+}
+.info{
+
+
+    width: 818px;
+    height: 38px;
+    margin-left: 365px;
+    background: rgba(196, 196, 196, 0.14);
+    border: 1px solid #FFFFFF;
+    border-radius: 18px;
+    margin-top: -70px;
+    position: relative;
+}
+.info img{
+    margin-left: 784px;
+    padding: 5px 0;
+}
+.info h1{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(255, 255, 255, 0.6);
+    position: absolute;
+bottom:-18px
+}
+.icon{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+   margin-left: 1310px;
+    margin-top: -50px;
+}
+.work{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+#hero1 h4{
+    font-size: 35px;
+    line-height: 90px;
+    color: #72072D;
+
+}
+.day{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px 0;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px 0;
+}
+.img2{
+    margin:  0 20px;
+
+}
+.img4{
+    margin: 0 20px;
+}
+.img1 h1{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    color: #000000;
+}
+.img2 h1{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    color: #000000;
+}
+.img3 h1{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    color: #000000;
+}
+.img4 h1{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    color: #000000;
+}
+.img5 h1{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    color: #000000;
+}
+.java button{
+
+
+    width: 230px;
+    height: 40px;
+    border: 2px solid #D118A8;
+    border-radius: 20px;
+    font-size: 18px;
+    color: #D118A8;
+    margin: 30px 500px;
+}
+
+
+
+.java a{
+    width: 15px;
+    height: 20px;
+    padding-left: 20px;
+    margin: 170px;
+}
+
+
+#footer{
+    background: linear-gradient(269.84deg, #FF005C -10.98%, rgba(0, 0, 0, 0.88) 100%);
+    width: 1440px;
+    height: 280px;
+}
+.footer h1{
+    font-family:Inter,sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 29px;
+
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 0;
+}
+.footer p{
+    font-style: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+        padding-bottom: 10px;
+}
+.icons a{
+    color: white;
+    font-size: 23px;
+    padding: 0 6px;
+}
+.text-p{
+    text-align: center;
+    color: white;
+}
+
+
+
